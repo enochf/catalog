@@ -10,4 +10,9 @@ The following code conects to Kuali, a curriculum management system, pulls and p
 - HTML
 - CSS
 
+## Project Details
+
+- Year Built: 2017
+- Client: Colorado State University Global (CSU Global)
+
 See more images and other work at [EnochFredericks.com](https://enochfredericks.com)
